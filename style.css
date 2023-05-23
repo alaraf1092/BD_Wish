@@ -330,7 +330,8 @@ body {
     left:0;
 }
 #pushpita{
-    position:relative;
+    position:absolute;
+    top: 39%;
     bottom:-200px;
     font-weight:bolder;
     font-size:48px;
